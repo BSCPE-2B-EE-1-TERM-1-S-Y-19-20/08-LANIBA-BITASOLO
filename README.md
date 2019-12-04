@@ -2,7 +2,8 @@
 MIDTERM-PROJECT:
 DELTA-TO-WYE RESISTOR READING USING ARDUINO
 <br>
-(https://raw.githubusercontent.com/maxangelo987/MAXANGELO987.GITHUB.IO/master/images/maks.jpg)
+[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+
 <br>
 FINAL-PROJECT:
 CAPACITOR AND INDUCTOR READING USING ARDUINO
