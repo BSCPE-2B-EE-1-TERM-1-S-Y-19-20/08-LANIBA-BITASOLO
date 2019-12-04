@@ -4,7 +4,6 @@ DELTA-TO-WYE RESISTOR READING USING ARDUINO
 <br>
 [![INSERT YOUR PICTURE HERE](https://raw.githubusercontent.com/maxangelo987/MAXANGELO987.GITHUB.IO/master/images/maks.jpg)]()
 
-<br>
----
+
 ## FINAL-PROJECT:
 CAPACITOR AND INDUCTOR READING USING ARDUINO
